@@ -1,0 +1,21 @@
+
+.container {
+    background-color: #ccc;
+    /* transition: background-color 0.3s ease; */
+  }
+  
+  .container.hovered {
+    background-color:blue;
+  }
+  .Liststyle{
+    list-style: none;
+    margin-right: 200px;
+    margin-left: 200px;
+  }
+  .style{
+height: 400px;
+width: 800px;
+margin-left: 500px;
+margin-top: 200px;
+background-color: cyan;
+  }
